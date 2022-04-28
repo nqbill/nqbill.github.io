@@ -20,14 +20,14 @@ const personDetails = {
     },
     academic: {
       college: {
-        name: "Al-Mubarok Islamic Boarding School",
-        duration: "2017-2019",
-        course: "Junior High School",
-      },
-      school: {
         name: "Jakarta vocational high school",
         duration: "2020 - 2022",
-        course: "High School"
+        course: "",
+      },
+      school: {
+        name: "Al-Mubarok Islamic Boarding School",
+        duration: "2017-2019",
+        course: ""
       }
     },
     skills: {
