@@ -20,13 +20,13 @@ const personDetails = {
     },
     academic: {
       college: {
-        name: "LET'S SEE 😉",
-        duration: "2024-2028(expected)",
-        course: "",
+        name: "Al-Mubarok Islamic Boarding School",
+        duration: "2017-2019",
+        course: "Junior High School",
       },
       school: {
-        name: "Amity International School",
-        duration: "2021 - Present",
+        name: "Jakarta vocational high school",
+        duration: "2020 - 2022",
         course: "High School"
       }
     },
